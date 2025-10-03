@@ -1,4 +1,4 @@
-"""# MIDIO — Interview Q&A Module  
+## MIDIO — Interview Q&A Module  
 
 The **Interview Q&A Module** of MIDIO is a simplified version of the virtual interview experience. Instead of using an LLM, this module relies on a curated set of **100 pre-stored interview questions** across various categories. The system presents these questions to the user one by one, simulating the flow of a real interview.  
 
@@ -50,6 +50,3 @@ This approach provides a lightweight, fast, and accessible way for candidates to
 
 ## 📌 About  
 This module was built as an **early prototype** of MIDIO’s interview system. It demonstrates the concept of a **virtual interviewer** using a static question set, laying the foundation for future AI-driven improvements.  
-"""
-
-"/mnt/data/README_INTERVIEW.md"
